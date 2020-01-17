@@ -1,4 +1,4 @@
-# Reloj analógico en C#
+# Reloj analógico en ~C#~ JavaScript
 
 Traducido de https://github.com/areyesram/anaclo a JavaScript.
 
